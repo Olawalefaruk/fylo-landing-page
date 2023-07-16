@@ -383,12 +383,14 @@ input:invalid {
 @media (orientation: portrait) {
   
   .background {
-    width: 70%;
+    width: 100%;
+    
   }
   
   .combine {
-    width: 50%;
+    width: 100%;
   }
+  
   .header-first-div {
     padding: 10px 5px;
     justify-content: space-between;
@@ -604,7 +606,7 @@ input:invalid {
   }
   
   .footer-combine-div {
-    padding: 10px 5px;
+    padding: 10px 20px;
     align-items: center;
     justify-content: center;
   }
